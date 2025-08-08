@@ -1,0 +1,15 @@
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\bin\Debug\net8.0\Question3_WarehouseSystem.exe
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\bin\Debug\net8.0\Question3_WarehouseSystem.deps.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\bin\Debug\net8.0\Question3_WarehouseSystem.runtimeconfig.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\bin\Debug\net8.0\Question3_WarehouseSystem.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\bin\Debug\net8.0\Question3_WarehouseSystem.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\Question3_WarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\Question3_WarehouseSystem.AssemblyInfoInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\Question3_WarehouseSystem.AssemblyInfo.cs
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\Question3_WarehouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\Question3_WarehouseSystem.sourcelink.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\Question3_WarehouseSystem.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\refint\Question3_WarehouseSystem.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\Question3_WarehouseSystem.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\Question3_WarehouseSystem.genruntimeconfig.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question3_WarehouseSystem\obj\Debug\net8.0\ref\Question3_WarehouseSystem.dll
