@@ -1,0 +1,15 @@
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\bin\Debug\net8.0\Question2_HealthSystemApp.exe
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\bin\Debug\net8.0\Question2_HealthSystemApp.deps.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\bin\Debug\net8.0\Question2_HealthSystemApp.runtimeconfig.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\bin\Debug\net8.0\Question2_HealthSystemApp.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\bin\Debug\net8.0\Question2_HealthSystemApp.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\Question2_HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\Question2_HealthSystemApp.AssemblyInfoInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\Question2_HealthSystemApp.AssemblyInfo.cs
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\Question2_HealthSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\Question2_HealthSystemApp.sourcelink.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\Question2_HealthSystemApp.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\refint\Question2_HealthSystemApp.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\Question2_HealthSystemApp.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\Question2_HealthSystemApp.genruntimeconfig.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question2_HealthSystemApp\obj\Debug\net8.0\ref\Question2_HealthSystemApp.dll
