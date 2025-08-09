@@ -1,0 +1,15 @@
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\bin\Debug\net8.0\Question5_GenericInventory.exe
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\bin\Debug\net8.0\Question5_GenericInventory.deps.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\bin\Debug\net8.0\Question5_GenericInventory.runtimeconfig.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\bin\Debug\net8.0\Question5_GenericInventory.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\bin\Debug\net8.0\Question5_GenericInventory.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\Question5_GenericInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\Question5_GenericInventory.AssemblyInfoInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\Question5_GenericInventory.AssemblyInfo.cs
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\Question5_GenericInventory.csproj.CoreCompileInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\Question5_GenericInventory.sourcelink.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\Question5_GenericInventory.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\refint\Question5_GenericInventory.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\Question5_GenericInventory.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\Question5_GenericInventory.genruntimeconfig.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question5_GenericInventory\obj\Debug\net8.0\ref\Question5_GenericInventory.dll
