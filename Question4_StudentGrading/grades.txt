@@ -1,0 +1,5 @@
+John Doe,95
+Jane Smith,82
+Mike Lee,77
+Invalid Data,hello
+Bad Score,120

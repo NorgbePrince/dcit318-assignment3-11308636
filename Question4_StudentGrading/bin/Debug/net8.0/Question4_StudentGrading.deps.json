@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Question4_StudentGrading/1.0.0": {
+        "runtime": {
+          "Question4_StudentGrading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question4_StudentGrading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

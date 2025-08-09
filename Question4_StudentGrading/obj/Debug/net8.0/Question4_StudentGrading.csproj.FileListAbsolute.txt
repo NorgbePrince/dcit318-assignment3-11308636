@@ -1,0 +1,15 @@
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\bin\Debug\net8.0\Question4_StudentGrading.exe
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\bin\Debug\net8.0\Question4_StudentGrading.deps.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\bin\Debug\net8.0\Question4_StudentGrading.runtimeconfig.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\bin\Debug\net8.0\Question4_StudentGrading.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\bin\Debug\net8.0\Question4_StudentGrading.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\Question4_StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\Question4_StudentGrading.AssemblyInfoInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\Question4_StudentGrading.AssemblyInfo.cs
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\Question4_StudentGrading.csproj.CoreCompileInputs.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\Question4_StudentGrading.sourcelink.json
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\Question4_StudentGrading.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\refint\Question4_StudentGrading.dll
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\Question4_StudentGrading.pdb
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\Question4_StudentGrading.genruntimeconfig.cache
+C:\Users\1030\Desktop\nnnnnn\dcit318-assignment3-11308636\Question4_StudentGrading\obj\Debug\net8.0\ref\Question4_StudentGrading.dll
